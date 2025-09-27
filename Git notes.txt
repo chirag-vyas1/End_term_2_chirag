@@ -1,0 +1,15 @@
+1) cd "E:\2. MDS DEAKIN UNIVERSITY\4.SIG 742 - Modern Data Science\WEEK - 8 - End Term Assignment\end_term_chirag_colab"
+
+2) git init
+
+3) git add .
+
+4) git remote remove origin
+
+5) git add .
+
+6) git commit -m"commit 27-09-2025"
+
+7) git remote add origin https://github.com/chirag-vyas1/End_term_2_chirag.git
+
+8) git push -u origin main
